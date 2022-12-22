@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "439868079579",
+    "firebase_url": "https://prueba-deaa0-default-rtdb.firebaseio.com",
+    "project_id": "prueba-deaa0",
+    "storage_bucket": "prueba-deaa0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439868079579:android:48e9e8411777559f91bbfe",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439868079579-s27dqks31fo0l7o86uocaka1nh3kh0an.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl4Rp-FWmuGjQhT7ylwHcre9w0dA_qPQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439868079579-s27dqks31fo0l7o86uocaka1nh3kh0an.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
